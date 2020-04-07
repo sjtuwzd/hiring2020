@@ -64,6 +64,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |IDEO|❌ |Ideo.org too|
 |IGN|❌ ||
 |iHeartMedia|❌ |
+|Indeed|❌ |
 |InterSystems|❌ |
 |Interbrand|❌ |
 |IPG MediaBrands|❌ |
